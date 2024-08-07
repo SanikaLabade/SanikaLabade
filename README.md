@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend development**
 
-- 💬 Ask me about **Java, Frontend development**
+- 💬 Ask me about **Java, Frontend development, Data Structure and Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
